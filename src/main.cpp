@@ -12,9 +12,9 @@ int main(void)
 
     auto f
     {
-            std::make_shared<f_gamma>(std::make_shared<f_gamma>(
+            std::make_shared<f_gamma>(
                 std::make_shared<f_var>()
-            ))
+            )
     };
     
 
