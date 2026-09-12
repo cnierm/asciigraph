@@ -1,0 +1,3 @@
+/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build/CMakeFiles/asciigraph.dir
+/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build/CMakeFiles/edit_cache.dir
+/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_base.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_base.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_base.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_base.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/abs.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/abs.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/abs.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/abs.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/arithmetic.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/arithmetic.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/arithmetic.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/arithmetic.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/constant.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/constant.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/constant.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/constant.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/gamma.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/gamma.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/gamma.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/gamma.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/hyperbolic_trigonometry.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/hyperbolic_trigonometry.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/hyperbolic_trigonometry.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/hyperbolic_trigonometry.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/rounding.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/rounding.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/rounding.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/rounding.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/trigonometry.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/trigonometry.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/trigonometry.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/trigonometry.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function/function_component/variable.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/variable.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function/function_component/variable.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function/function_component/variable.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function_parser/function_parser.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function_parser/function_parser.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function_parser/function_parser.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function_parser/function_parser.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/function_parser/function_parser_2.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function_parser/function_parser_2.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/function_parser/function_parser_2.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/function_parser/function_parser_2.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/main.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/main.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/main.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/ui/ui.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/ui/ui.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/ui/ui.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/ui/ui.cpp.o"
+},
+{
+  "directory": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/build",
+  "command": "/usr/bin/c++  -I\"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/include\" -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/asciigraph.dir/src/ui/window.cpp.o -c \"/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/ui/window.cpp\"",
+  "file": "/home/forkedcork/Programs/My Projects/C++/ASCIIGraph_V2/src/ui/window.cpp",
+  "output": "CMakeFiles/asciigraph.dir/src/ui/window.cpp.o"
+}
+]
